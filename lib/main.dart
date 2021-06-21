@@ -25,7 +25,7 @@ void main() {
         body: Center(
           child: Image(
             image: AssetImage(
-              'assets/images/logo.png',
+              'assets/images/logo.gif',
             ),
             //color: Colors.red,
           ),
